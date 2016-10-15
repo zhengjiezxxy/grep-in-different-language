@@ -1,0 +1,4 @@
+"Resource: /windows1/zhengjie4/Nutstore/ocaml/main.ml": "\136\179j\220u\0173\2303e1\138O\"\239\187"
+"Rule: ocaml: cmo* -> byte (%=main )": "\021\176\012\150\140\192\250\146\192\212\011\185Q\231y\019"
+"Rule: ocaml: ml -> cmo & cmi (%=main )": "\127\000\020\232\002r\215n;\003bq\221'\217\202"
+"Rule: ocaml dependencies ml (%=main )": "\007Z\137\147Ztn\171\175w\017\228k\027\230\007"
